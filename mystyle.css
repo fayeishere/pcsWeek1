@@ -1,0 +1,100 @@
+/*font-family: 'Orbitron', sans-serif;*/
+
+
+body {
+	background-color: #649228;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+	color: #c85f24;
+}
+
+h2 {
+	text-align: center;
+	font-size: 20px;
+	color: #391701;
+}
+ul
+{
+list-style-type: none;
+padding-right: 40px;
+}
+marquee {
+  overflow-x: -webkit-marquee;
+  -webkit-marquee-direction: forwards;
+  -webkit-marquee-increment: medium;
+}
+video {
+	width: 560px;
+ 	height: 340px;
+ 	margin: 0 auto;
+ 	
+}
+
+.main {
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+/*	color: #0c4a1c;*/
+}
+.funky {
+	text-align: center;
+	font-size: 25px;
+/*	color: #ffc51d;*/
+}
+.scorpion {
+	background-color: #000000;
+	height: 150px;
+}
+.scorpion img {
+	height: 150px;
+}
+.plan {
+	color: #ffc51d;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.pop {
+	color:#391701;
+	font-size: 30px;
+}
+a {
+	color:#ffc51d;
+}
+/*a:visited {
+    color: #86d922;
+}*/
+a:hover {
+    color: #007BDC;
+}
+#save {
+	text-align: center;
+}
+#quit {
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#network {
+	color: #712272;
+}
+#logo {
+	height: 42px;
+	width: 42px;
+}
+#pdf {
+	height: 22px;
+	width: 22px;
+	padding-left: 10px;
+	position: relative;
+/*	bottom: 2px;*/
+}
+
+
+/*section {}
+
+
+
+
+
